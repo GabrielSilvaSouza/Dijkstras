@@ -4,3 +4,5 @@ Esta biblioteca foi desenvolvida em C++ visando o estudo do algoritmo de Dijkstr
 Para tal objetivo, utilizou-se 2 formas de programação: Funcional e Orientada a Objeto.
 
 ## How to run
+
+Para o uso deste
